@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NicolePetrol</string>
+    <string name="action_settings">Settings</string>
+    <string name="odometerFieldText">Enter Odometer Value</string>
+    <string name="volumeFieldText">Enter Volume</string>
+    <string name="priceFieldText">Enter Price</string>
+    <string name="fullTankBool">Tank is Full</string>
+    <string name="attachReceiptLabel">Attach Receipt?</string>
+    <string name="cancelText">Cancel</string>
+    <string name="submitText">Submit</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="record_fill_up_title">Record a FillUp</string>
+</resources>
